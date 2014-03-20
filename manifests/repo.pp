@@ -6,7 +6,7 @@ class newrelic::repo {
                 release => 'newrelic',
                 repos => 'non-free',
                 include_src => false,
-                key => true,
+                key => '548C16BF',
                 key_source => 'https://download.newrelic.com/548C16BF.gpg',
             }
         }
